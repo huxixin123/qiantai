@@ -1,0 +1,9 @@
+module.exports={
+	sql_config:{
+		host:"localhost",
+		port:3306,
+		user:"root",
+		password:"root123",
+		database:"blog_sql"
+	}
+}
